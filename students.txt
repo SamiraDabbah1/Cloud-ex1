@@ -1,3 +1,0 @@
-First_Name		Last_Name		Email				Courses_Name		Link
-Reema Nasr	reema.nasr@e.braude.ac.il	computing	www.ynet.co.il	web
-  Samera		Dabbah		samera.dabbah@e.braude.ac.il		computing		www.braude.ac.il	

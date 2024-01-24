@@ -1,3 +1,5 @@
 First_Name	Last_Name			Email				Courses_Name	  			Link
 Reema		   Nasr		reema.nasr@e.braude.ac.il		   computing		     www.ynet.co.il	
 Samira		 Dabbah		samira.dabbah@e.braude.ac.il	   computing		https://www.instagram.com/
+Randa      Assadi    Ranada.assadi@e.braude.ac.il    computing      
+Marysoul    karawany   Marysoul.Karawany@e.braude.ac.il  
